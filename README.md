@@ -17,7 +17,7 @@ Site criado para listar tarefas de usuários fictícios consumindo a API públic
 
 ## 📜 Sobre o Projeto
 
-Este site consome a API pública JSONPlaceholder para exibir uma lista de tarefas (`todos`) atribuídas a usuários fictícios.
+Este site consome a API pública JSONPlaceholder para exibir uma lista de tarefas atribuídas a usuários fictícios.
 
 Meu foco neste projeto foi **treinar o uso de APIs**. Pedi para o ChatGPT criar o HTML e o CSS básico, e depois fiz os ajustes necessários por conta própria. Assim, concentrei meu aprendizado no consumo da API e na manipulação dos dados com JavaScript.
 
