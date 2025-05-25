@@ -1,28 +1,36 @@
 # API Tarefas de Usuários
 
-[![GitHub](https://img.shields.io/badge/GitHub-API--Tarefas--de--Usuários-black?logo=github)](https://github.com/Lucianoquintela/api-tarefas-de-usuarios)
-[![Deploy](https://img.shields.io/badge/Ver%20Online-Deploy-blue?logo=githubpages)](https://lucianoquintela.github.io/api-tarefas-de-usuarios/)
+Site criado para listar tarefas de usuários fictícios consumindo a API pública **JSONPlaceholder**.
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) (API pública fake)
+[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/api-tarefas-de-usuarios/)
 
-## Sobre o projeto
+---
 
-Este projeto foi desenvolvido com o objetivo de praticar o consumo de APIs REST. Ele faz requisições à API JSONPlaceholder para buscar tarefas (`todos`) atribuídas a usuários fictícios, exibindo os dados de forma organizada na interface.
+## ✨ Tecnologias Utilizadas
 
-## Funcionalidades
-- Busca de dados via API
-- Listagem de tarefas de usuários
-- Código limpo e bem estruturado para aprendizado
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-JSONPlaceholder-4ABDAC?style=for-the-badge)
 
-## Status do Projeto
-**Concluído** – aberto para melhorias e novos aprendizados.
+---
 
-## Autor
+## 📜 Sobre o Projeto
 
-Luciano Quintela  
-[![GitHub](https://img.shields.io/badge/GitHub-Lucianoquintela-black?logo=github)](https://github.com/Lucianoquintela)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano--Quintela-blue?logo=linkedin)](https://www.linkedin.com/in/luciano-quintela)
+Este site consome a API pública JSONPlaceholder para exibir uma lista de tarefas (`todos`) atribuídas a usuários fictícios.
+
+Meu foco neste projeto foi **treinar o uso de APIs**. Pedi para o ChatGPT criar o HTML e o CSS básico, e depois fiz os ajustes necessários por conta própria. Assim, concentrei meu aprendizado no consumo da API e na manipulação dos dados com JavaScript.
+
+---
+
+## 📈 Status do Projeto
+
+> ✅ Projeto concluído!
+
+---
+
+## 👨‍💻 Autor
+
+**Luciano Quintela**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianoquintela)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-quintela)
